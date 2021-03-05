@@ -1,15 +1,16 @@
-id: opecha:P007893
+id: P007893
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1CZ1987
   title: རྒྱུད་སྡེ་སྤྱིའི་རྣམ་གཞག་མཁས་པའི་ཡིད་འཕྲོག་
-  volume:
+  author: ''
+  volumes:
     dc6b82f0e9db4873a1d65d3ac61105e6:
       image_group_id: I1CZ2015
       title: Volume 1 of rgyud sde spyi'i rnam gzhag mkhas pa'i yid 'phrog
       volume_number: 1
       total_pages: 60
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: རྒྱུད་སྡེ་སྤྱིའི་རྣམ་གཞག་མཁས་པའི་ཡིད་འཕྲོག་
   author: ''
