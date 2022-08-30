@@ -1,0 +1,10 @@
+id: 07562cb9549b4ba5a195da7df1e9d034
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  6acc1b2f7ed243d18d59dfcc430e9a63:
+    span:
+      start: 0
+      end: 817
+    imgnum: 1
+    reference: I1CZ20150001.tif
